@@ -16,7 +16,6 @@
 # Language and tools familiar with
 ![Tools](./tools.png)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
