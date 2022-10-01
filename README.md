@@ -2,7 +2,7 @@
 
 # About me
 - I am an engineering student pursuing B. Tech in computer science from Indian Institute of Technology, Guwahati. I am very passionate about learning new technologies. 
-- I am a Web devloper and Commpetitive programmer
+- I am a Web devloper and Competitive programmer
 - Currently I am into Data science
 
 
