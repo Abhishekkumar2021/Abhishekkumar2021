@@ -14,7 +14,7 @@
 # Language and tools familiar with
 ![Tools](./tools.png)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhishekkumar2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abhishekkumar2021&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
