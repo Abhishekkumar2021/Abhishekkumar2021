@@ -20,6 +20,7 @@
 5. Java
 6. C#
 7. Bash
+8. Typescript
 
 # My Coding practice websites 
 1. Leetcode
