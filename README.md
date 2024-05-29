@@ -1,10 +1,10 @@
 ![Overview](./img.png)
 
 # About me
-- I am an engineering student pursuing B. Tech in computer science from Indian Institute of Technology, Guwahati. I am very passionate about learning new technologies. 
-- I am a Web devloper and Competitive programmer
+- I am an engineering student pursuing a B. Tech in computer science from the Indian Institute of Technology, Guwahati. I am very passionate about learning new technologies. 
+- I am a Web developer and Competitive programmer
 
-# My statisics
+# My statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkumar2021&theme=vue-dark)](https://github.com/Abhishekkumar2021/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekkumar2021&theme=vue-dark)](https://github.com/Abhishekkumar2021/)
@@ -18,14 +18,13 @@
 3. Javascript
 4. Python
 5. Java
-6. C#
+6. Go
 7. Bash
 8. Typescript
 
 # My Coding practice websites 
 1. Leetcode
-2. Coding Ninjas
-3. GeeksForgeeks
+2. Codeforces
 
 # Frontend technologies familaiar to me
 1. HTML
@@ -35,8 +34,10 @@
 5. Material UI
 6. Styled-Components
 7. Google Firebase
+8. Tailwind CSS
+9. NextJS
 
-# Backend technologies familaiar to me
+# Backend technologies familiar to me
 1. NodeJs
 2. Express
 3. MongoDB
@@ -53,13 +54,14 @@
 5. Matplotlib
 6. Seaborn
 
-# Other devlopement tools
+# Other development tools
 ## Operating system
 1. Windows
 2. Linux 
 
 ## Code Editor
 1. VS Code
+2. Android Studio
 
 # Others
 1. Unity
