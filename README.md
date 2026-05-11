@@ -28,7 +28,9 @@
 |---|---|---|
 | **[Pravah](https://github.com/Abhishekkumar2021/Pravah)** | Multi-tenant data orchestration platform — 33 ADRs, 9-phase system-design curriculum, hands-on playgrounds for Kafka, gRPC, and advanced PostgreSQL. | `Java 21` `Spring Boot` `Kafka` `gRPC` `PostgreSQL` `Kubernetes` |
 | **[code-to-snippet](https://github.com/Abhishekkumar2021/code-to-snippet)** | VS Code extension that turns selected code into a publishable snippet in one keystroke. | `TypeScript` `VS Code API` |
+| **[compile-run](https://github.com/Abhishekkumar2021/compile-run)** | VS Code extension for competitive programmers — compile + run C++ with file-based stdin/stdout in one shortcut. | `TypeScript` `VS Code API` |
 | **[graphing-calculator](https://github.com/Abhishekkumar2021/graphing-calculator)** | Interactive graphing calculator built on raw HTML canvas — plot custom math functions live. | `TypeScript` `Canvas API` |
+| **[Machine-Learning](https://github.com/Abhishekkumar2021/Machine-Learning)** | Notes, derivations, and from-scratch implementations of core ML algorithms. | `Python` `Jupyter` `LaTeX` `C++` |
 
 ---
 
@@ -49,8 +51,12 @@
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekkumar2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkumar2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekkumar2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishekkumar2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Abhishekkumar2021&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
